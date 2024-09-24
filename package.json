@@ -1,0 +1,14 @@
+{
+  "name": "my-playwright-boilerplate",
+  "version": "1.0.0",
+  "description": "Playwright 테스트 도구를 활용한 매크로 boilerplate입니다.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.47.2",
+    "@types/node": "^22.6.1"
+  }
+}
